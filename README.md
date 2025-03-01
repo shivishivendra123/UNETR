@@ -36,6 +36,9 @@ pip install -r requirements.txt
 - Model performance metrics and segmentation results are available in the notebook.
 - Visualizations of segmented outputs are provided.
 
+  ![image](https://github.com/user-attachments/assets/ba4b0906-4b58-4771-955c-13b5dd78d922)
+
+
 ## Contributing
 Feel free to submit pull requests or open issues for improvements and bug fixes.
 
